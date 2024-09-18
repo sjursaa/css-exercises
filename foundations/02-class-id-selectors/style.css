@@ -1,0 +1,18 @@
+#one {
+  color: blue;
+  font-size: 36px;
+}
+
+#two {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bold;
+}
+
+.odd {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
