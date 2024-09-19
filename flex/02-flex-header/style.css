@@ -1,6 +1,7 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
 }
 
 .logo {
@@ -8,6 +9,14 @@
   font-weight: 900;
   color: tomato;
   background: white;
+  padding: 4px 32px;
+  margin: 8px;
+}
+
+.left-links,
+.right-links {
+  flex: 1;
+  margin: 8px;
   padding: 4px 32px;
 }
 
